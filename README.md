@@ -1,3 +1,3 @@
 # SageMaker Studio Notebook Webinar
 
-Code Repo for SageMaker Studio notebook webinar
+Code Repo for SageMaker Studio notebook demo
